@@ -22,4 +22,4 @@ Note: ID will not be used and will need to be dropped prior to building your mod
 1. Rational Statement (summary of the problem or problems to be addressed by the PPT)
 2. Present the Learning Curve for the Original SVM Model and explain three (3) insights
 3. Present and explain three (3) key insights from the Optimized SVM model classification report, but first use SMOTE to balance the Classes
-4. State and explain three (3) recommendations for Mr. John Hughes for next steps. – 3%
+4. State and explain three (3) recommendations for Mr. John Hughes for next steps
